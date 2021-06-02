@@ -11,7 +11,7 @@ h1{
 text-align: center;
 position: absolute;
 top: 3%;
-left: 32%;
+left: 34%;
 font-family: 'Cinzel Decorative', cursive;
 font-size: 80px;
 color: #e9910c;
@@ -66,12 +66,19 @@ color: #e9910c;
      .q1{
   position:absolute;
       top:3%;
-      left:26%;
+      left:28%;
       width:5%;
 }
 .q2{
     position:absolute;
         top:3%;
-        left:69%;
+        left:71%;
         width:5%;
+  }
+  .m{
+      position:absolute;
+      top:16%;
+      left: 38%;
+      font-size: x-large;
+      color: #e9910c;
   }
